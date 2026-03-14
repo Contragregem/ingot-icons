@@ -1,0 +1,11 @@
+[Icon Theme]
+Name=Ingot
+Comment=A modern, opinionated SVG icon theme
+Directories=scalable/apps
+
+[scalable/apps]
+Size=24
+Type=scalable
+MinSize=16
+MaxSize=512
+Context=Applications
