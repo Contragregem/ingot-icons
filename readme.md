@@ -1,5 +1,7 @@
 # Ingot Icons
 
+![Ingot Icons Preview](preview.png)
+
 A modern, opinionated SVG icon theme
 
 ### Installation
