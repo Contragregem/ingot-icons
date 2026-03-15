@@ -8,6 +8,7 @@ A modern, opinionated SVG icon theme
 
 ##### Run in your linux distribution of choice:
 ```
+mkdir -p ~/.local/share/icons
 git clone https://github.com/Contragregem/ingot.git ~/.local/share/icons/ingot
 ```
 
